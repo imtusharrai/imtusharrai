@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.traiinc.com"><img src="https://img.shields.io/badge/🌐_TRAI_Inc-0ea5e9?style=for-the-badge" alt="Website"/></a>&nbsp;
   <a href="https://twitter.com/imtusharrai"><img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>&nbsp;
-  <a href="https://instagram.com/theflutterlover"><img src="https://img.shields.io/badge/@theflutterlover-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+
   <a href="https://linkedin.com/in/imtusharrai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:hello@traiinc.com"><img src="https://img.shields.io/badge/📧_Hire_Me-22c55e?style=for-the-badge" alt="Hire Me"/></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=imtusharrai&style=for-the-badge&color=818cf8&label=VISITORS" alt="Profile Views"/>
@@ -44,7 +44,7 @@ currently:
   - 🔭 Building production Flutter apps for clients
   - 🤖 Integrating AI (Gemini API, on-device ML) into mobile apps
   - 🌱 Exploring Riverpod 3.0 & Dart macros
-  - 📸 Creating content @theflutterlover
+  - 📸 Sharing Flutter tips & tricks
   - 💬 Ask me about Flutter, Dart, AI, or Mobile Dev
 
 fun_fact: "I debug in my dreams 🛌💻"
@@ -161,7 +161,7 @@ fun_fact: "I debug in my dreams 🛌💻"
 <p align="center">
   <i>✨ "Code is like poetry — it should be beautiful, functional, and tell a story." ✨</i>
   <br/><br/>
-  <sub>Crafted with ❤️ by <a href="https://github.com/imtusharrai">Tushar Rai</a> • <a href="https://www.traiinc.com">TRAI, Inc</a> • <a href="https://instagram.com/theflutterlover">@theflutterlover</a></sub>
+  <sub>Crafted with ❤️ by <a href="https://github.com/imtusharrai">Tushar Rai</a> • <a href="https://www.traiinc.com">TRAI, Inc</a></sub>
 </p>
 
 <!-- Animated Capsule Footer -->
