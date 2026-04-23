@@ -136,7 +136,7 @@ open_to:
 
 <p align="center">
   <a href="https://github.com/imtusharrai">
-    <img src="https://github-profile-trophy.vercel.app/?username=imtusharrai&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=imtusharrai&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
   </a>
 </p>
 
