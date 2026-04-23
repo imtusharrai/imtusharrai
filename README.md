@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%9A%80+Building+Pixel-Perfect+Cross-Platform+Apps;%E2%9A%A1+10%2B+Years+%7C+Flutter+%E2%80%A2+Dart+%E2%80%A2+Android+%E2%80%A2+iOS;%F0%9F%8E%AF+Open+for+Freelance+%26+Contract+Work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=80&lines=%F0%9F%9A%80+Building+Pixel-Perfect+Cross-Platform+Apps;%E2%9A%A1+10%2B+Years+%7C+Flutter+%E2%80%A2+Dart+%E2%80%A2+Android+%E2%80%A2+iOS;%F0%9F%A4%96+AI-Powered+Mobile+Apps+with+Gemini+%26+ML+Kit;%F0%9F%8E%AF+Open+for+Freelance+%26+Contract+Work" alt="Typing SVG" />
   </a>
 </div>
 
@@ -35,15 +35,17 @@ expertise:
   - Cross-Platform Mobile Apps (Flutter/Dart)
   - Android Native (Kotlin/Java)
   - iOS Development (Swift)
+  - AI/ML Integration (Gemini, OpenAI, TFLite, ML Kit)
   - UI/UX Architecture & Design Systems
   - State Management (Riverpod, BLoC, Provider)
   - Backend Integration (Firebase, Supabase, REST)
 
 currently:
   - 🔭 Building production Flutter apps for clients
+  - 🤖 Integrating AI (Gemini API, on-device ML) into mobile apps
   - 🌱 Exploring Riverpod 3.0 & Dart macros
   - 📸 Creating content @theflutterlover
-  - 💬 Ask me about Flutter, Dart, or Mobile Dev
+  - 💬 Ask me about Flutter, Dart, AI, or Mobile Dev
 
 fun_fact: "I debug in my dreams 🛌💻"
 ```
@@ -55,7 +57,7 @@ fun_fact: "I debug in my dreams 🛌💻"
 ### 🛠️ &nbsp;Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,java,swift,firebase,supabase,figma,git,github,vscode,docker,postman,linux,gcp&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,java,swift,firebase,supabase,tensorflow,pytorch,gcp,aws,figma,git,github,vscode,docker,postman,linux,python&perline=10" alt="Tech Stack"/>
 </p>
 
 <details>
@@ -68,6 +70,7 @@ fun_fact: "I debug in my dreams 🛌💻"
 | **State Mgmt** | ![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=flat-square) ![BLoC](https://img.shields.io/badge/BLoC-000000?style=flat-square) ![Provider](https://img.shields.io/badge/Provider-6C63FF?style=flat-square) ![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=flat-square) |
 | **Backend** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 | **DevOps** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white) ![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=flat-square&logo=codemagic&logoColor=white) |
+| **AI / ML** | ![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![TensorFlow Lite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white) ![Material 3](https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white) |
 
 </details>
@@ -103,7 +106,7 @@ fun_fact: "I debug in my dreams 🛌💻"
 
 <p align="center">
   <a href="https://github.com/imtusharrai">
-    <img src="https://github-profile-trophy.vercel.app/?username=imtusharrai&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=imtusharrai&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
   </a>
 </p>
 
@@ -129,6 +132,7 @@ fun_fact: "I debug in my dreams 🛌💻"
 | &nbsp; | Service | Description |
 |:---:|---|---|
 | 📱 | **Flutter App Development** | End-to-end cross-platform apps for iOS & Android |
+| 🤖 | **AI-Powered Mobile Apps** | Gemini API, on-device ML, smart chatbots & AI features |
 | 🎨 | **UI/UX Implementation** | Pixel-perfect Figma-to-Flutter conversions |
 | 🔧 | **App Modernization** | Migrate legacy apps to Flutter with modern architecture |
 | ☁️ | **Backend Integration** | Firebase, Supabase, REST APIs, GraphQL |
