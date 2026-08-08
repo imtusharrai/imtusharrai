@@ -1,6 +1,6 @@
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:2563eb&height=220&section=header&text=Tushar%20Rai&fontSize=75&fontColor=38bdf8&animation=fadeIn&fontAlignY=35&desc=Forward%20Deployed%20Engineer%20%7C%20AI%20Engineer&descSize=18&descColor=818cf8&descAlignY=55)](https://camo.githubusercontent.com/02b3d7676baa463bba2a6ced5fed8ed141d1631dfa3f77fb55d60a12399f3286)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Forward+Deployed+Engineer+%2B+AI+Engineer;Multi-Agent+Systems+%26+RAG+Pipelines+%26+LLM+Integration;Flutter+%26+Full-Stack+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=100&lines=Forward+Deployed+Engineer+%2B+AI+Engineer;Multi-Agent+Systems+%26+RAG+Pipelines;Workflow+Automation+%26+Agent+Orchestration;Flutter+%26+Full-Stack+Development)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/🌐_TRAI_Inc-0ea5e9?style=for-the-badge)](https://www.traiinc.com) [![Twitter](https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/imtusharrai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imtusharrai) [![Hire Me](https://img.shields.io/badge/📧_Hire_Me-22c55e?style=for-the-badge)](mailto:imtusharrai@gmail.com) [![Profile Views](https://komarev.com/ghpvc/?username=imtusharrai&style=for-the-badge&color=818cf8&label=VISITORS)](https://komarev.com/ghpvc/?username=imtusharrai&style=for-the-badge&color=818cf8&label=VISITORS)
 
@@ -32,6 +32,37 @@ currently:
 
 fun_fact: "I debug in my dreams 🛌💻"
 ```
+
+---
+
+### 🤖 AI Engineering & Automation
+
+*What I actually build — not just tools I know, but the systems I put into production for clients.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🕸️ Multi-Agent Systems**
+Design and orchestrate autonomous agent pipelines using LangGraph, Microsoft AutoGen, and CrewAI — agents that plan, call tools, and hand off work to each other to complete multi-step business processes end-to-end, not just single-shot prompts.
+
+**🔍 Enterprise RAG & Semantic Search**
+Build retrieval-augmented generation pipelines with custom vector embeddings and hybrid retrieval, so answers are grounded in a client's own proprietary data instead of the model guessing.
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Workflow Automation**
+Wire up Zapier, Make.com, and Activepieces to remove manual, repetitive steps from real business operations — the unglamorous but high-leverage automation that actually saves hours every week.
+
+**🧠 Multi-LLM Integration**
+Route across Claude, Gemini, and GPT depending on task, cost, and latency — with prompt compression and context optimization to keep production inference fast and affordable.
+
+</td>
+</tr>
+</table>
+
+**🎙️ In Progress:** Voice AI pipeline targeting sub-500ms end-to-end latency and blended inference + telephony cost under $0.03/min.
 
 ---
 
@@ -70,6 +101,8 @@ fun_fact: "I debug in my dreams 🛌💻"
 ### 🚀 Featured Projects
 
 [![Flutter Food Ordering App](https://github-readme-stats.vercel.app/api/pin/?username=imtusharrai&repo=foodordering_flutterapp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9)](https://github.com/imtusharrai/foodordering_flutterapp) [![EmDash](https://github-readme-stats.vercel.app/api/pin/?username=imtusharrai&repo=emdash&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9)](https://github.com/imtusharrai/emdash)
+
+> 💡 *Building out public repos for agent/RAG work — check back soon, or ask me directly about recent client engagements.*
 
 ---
 
