@@ -14,7 +14,7 @@
   <a href="https://twitter.com/imtusharrai"><img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>&nbsp;
 
   <a href="https://linkedin.com/in/imtusharrai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:hello@traiinc.com"><img src="https://img.shields.io/badge/📧_Hire_Me-22c55e?style=for-the-badge" alt="Hire Me"/></a>&nbsp;
+  <a href="mailto:imtusharrai@gmail.com"><img src="https://img.shields.io/badge/📧_Hire_Me-22c55e?style=for-the-badge" alt="Hire Me"/></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=imtusharrai&style=for-the-badge&color=818cf8&label=VISITORS" alt="Profile Views"/>
 </p>
 
@@ -28,8 +28,8 @@
 ```yaml
 name: Tushar Rai
 located_in: India 🇮🇳
-company: TRAI, Inc (@traiapp)
-role: Founder & Lead Mobile Developer
+company: TRAI, Inc 
+role: AI Solution Architect
 
 expertise:
   - Cross-Platform Mobile Apps (Flutter/Dart)
